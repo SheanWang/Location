@@ -44,7 +44,7 @@
                     <DataTemplate>
                         <StackPanel Orientation="Horizontal">
                             <Image Source="{Binding Pictrue}" Width="65" Height="65"/>
-                            <TextBlock Text="        " Foreground="Black" FontSize="35"/>
+                            <TextBlock Text="  " Foreground="Black" FontSize="35"/>
                             <TextBlock Text="{Binding Name}" Foreground="White" FontSize="35"/>
                         </StackPanel>
                     </DataTemplate>
